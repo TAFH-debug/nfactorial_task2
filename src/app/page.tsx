@@ -39,7 +39,7 @@ export default function Home() {
                       <div className="grid gap-1">
                           <h3 className="text-lg font-bold">Discover Engaging Content</h3>
                           <p className="text-sm text-gray-500 dark:text-gray-400">
-                              Whether you're seeking practical advice, thought-provoking perspectives, or entertaining anecdotes, you'll find it all here.
+                              Whether you re seeking practical advice, thought-provoking perspectives, or entertaining anecdotes, you ll find it all here.
                           </p>
                       </div>
                       <div className="grid gap-1">
